@@ -1,5 +1,5 @@
 - folder: python-minimal
-  name: Basic Python (3.8) MLS Project
-  description: The simplest Python-3.8-based renku project with a basic directory structure and necessary supporting files and MLSchema support.
+  name: Basic Python (3.9) MLS Project
+  description: The simplest Python-3.9-based renku project with a basic directory structure and necessary supporting files and MLSchema support.
   variables:
     description: short description added at the beginning of the readme file
